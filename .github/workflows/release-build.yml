@@ -2,7 +2,7 @@ name: Release Build
 
 on:
   push:
-    branches: [ "main", "master" ]
+    branches: [ "main", "master", "piting" ]
     paths-ignore:
       - ".gitignore"
 
